@@ -283,28 +283,24 @@ void frontpage()
   }
 
   gotoxy(28,3);
-  cout<<"RRK Senior Secondary School";
+  cout<<"GLA University, Mathura";
   gotoxy(36,4);
-  cout<<"Chandausi";
+  cout<<"Uttar Pradesh";
   gotoxy(31,6);
-  cout<<"Session : 2018-2019";
+  cout<<"Session : 2021-2022";
 
   gotoxy(36,11);
   cout<<"Welcome to";
   gotoxy(31,12);
   cout<<"Parking Management";
 
-  gotoxy(15,19);
-  cout<<"Submitted to";
-  gotoxy(15,20);
-  cout<<"Anirudh Sir";
 
   gotoxy(35,20);
   cout<<"Submitted by";
   gotoxy(35,21);
-  cout<<"Chirag Agrawal and Himanshu Gupta";
+  cout<<"Himanshu Gupta";
   gotoxy(35,22);
-  cout<<"XII A";
+  cout<<"191500345";
 }
 
 void main()
